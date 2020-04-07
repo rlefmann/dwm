@@ -50,3 +50,10 @@ and (re)compiling the source code.
 ## Patches applied
 * [pertab](https://dwm.suckless.org/patches/pertag/)
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
+
+## Keybindings
+* The MODKEY is set to the super key
+* `MODKEY+s` spawns or restores the scratchpad (a floating terminal window)
+* All other key bindings are the same as in vanilla dwm
+
+

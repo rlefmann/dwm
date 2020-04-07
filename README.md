@@ -54,6 +54,6 @@ and (re)compiling the source code.
 ## Keybindings
 * The MODKEY is set to the super key
 * `MODKEY+s` spawns or restores the scratchpad (a floating terminal window)
-* All other key bindings are the same as in vanilla dwm
+* All other keybindings are the same as in vanilla dwm
 
 

@@ -45,3 +45,8 @@ exec dwm
 ## Configuration
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+
+## Patches applied
+* [pertab](https://dwm.suckless.org/patches/pertag/)
+* [scratchpad](https://dwm.suckless.org/patches/scratchpad/)

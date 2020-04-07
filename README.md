@@ -3,6 +3,17 @@
 dwm is an extremely fast, small, and dynamic window manager for X. 
 
 
+## Patches applied
+* [pertab](https://dwm.suckless.org/patches/pertag/)
+* [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
+
+
+## Keybindings
+* The MODKEY is set to the super key
+* `MODKEY+s` spawns or restores the scratchpad (a floating terminal window)
+* All other keybindings are the same as in vanilla dwm
+
+
 ## Requirements
 In order to build dwm you need the Xlib header files.
 
@@ -45,15 +56,3 @@ exec dwm
 ## Configuration
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
-
-
-## Patches applied
-* [pertab](https://dwm.suckless.org/patches/pertag/)
-* [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
-
-## Keybindings
-* The MODKEY is set to the super key
-* `MODKEY+s` spawns or restores the scratchpad (a floating terminal window)
-* All other keybindings are the same as in vanilla dwm
-
-

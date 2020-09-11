@@ -6,6 +6,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 ## Patches applied
 * [pertab](https://dwm.suckless.org/patches/pertag/)
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
+* [uselessgap](http://dwm.suckless.org/patches/uselessgap/)
 
 
 ## Keybindings
